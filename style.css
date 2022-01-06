@@ -1,11 +1,12 @@
+
 body{
     font-family: 'Poppins', sans-serif; 
-    margin-left: 5%;
+    margin-left: 0;
 }
 .section{
     margin-bottom: 150px;
 }
-h1{
+.sec1-h1{
     font-size: 50px;
     font-weight: 700;
     margin:0;
@@ -17,7 +18,8 @@ h1{
 }
 .top-container{
     display: flex;
-    margin-bottom: 150px;
+    margin-bottom: 40px;
+    margin-left: 80px;
 }
 .sec-half-width{
     width: 50%;
@@ -38,6 +40,7 @@ h1{
 }
 .sec1-p{
     margin-bottom: 40px;
+    
 }
 .sec1-h1-border{
     border-left: 3px solid rgb(255, 89, 89);
@@ -47,3 +50,186 @@ h1{
 .top-margin-sec1-p{
     margin-top: 40px;
 }
+.sec2-top-container{
+    margin-left: 80px;
+}
+
+.sec2-h2{
+    
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom:40px;
+    padding: 0;
+    text-align: center;
+}
+.sec2-h3{
+    font-size: 25px;
+    font-weight: bold;
+
+}
+.sec2-container{
+    width: 405px;
+    height: 350px;
+    margin-left: 20px;
+    margin-right: 10px;
+    padding-left: 20px;
+    border-radius: 10px;
+    margin-bottom:80px ;
+    
+    
+}
+ #mission{
+    background-color:rgb(237,245,246) ;
+    padding:25px ;
+}
+#Vision{
+    background-color:rgb(255,238,238) ;
+    padding:25px ;
+    
+}
+#goals{
+    background-color:rgb(255,244,214) ;
+    padding:25px ;
+}
+
+.sec2-container img{
+    width:150px;
+    
+}
+.middle-container{
+    display: flex;
+    justify-content: center;
+}
+
+.sec3-container{
+    display: flex;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 150px 200px;
+    margin-left:5px ;
+    height: 350px;
+    margin-bottom:150px ;
+    margin-left: 80px;
+
+    
+
+}
+.sec3-container img{
+    width: 350px;
+    height: 400px;
+    margin-left: 52px;
+    margin-right: 60px;
+}
+.sec3-container h3{
+    font-size:30px;
+    font-weight: bold;
+    margin: 0;
+    
+
+}
+.sec3-text {
+    margin-top: 70px;
+    
+    
+}
+.sec3-text p{
+    margin-bottom: 25px;
+    
+    
+}
+
+.sec4-container{
+    display: flex;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 150px 150px;
+    height: 500px;
+    margin-left: 80px;
+    
+
+    
+}
+.sec4-container h3{
+    font-size:30px;
+    font-weight: bold;
+    margin: 0;
+    text-align: 0;
+    
+
+}
+.sec4-img img{
+    width:350px ;
+    margin-right: 80px;
+
+
+}
+.sec4-text{
+    margin-right: 200px;
+    margin-left: 50px;
+}
+
+
+footer{
+    background-color: black;
+    height: 150px;
+}
+.font-footer{
+    color: white;
+    
+    
+    text-align: center;
+} 
+.font-footer h3{
+    padding-top: 40px;
+}
+.font-footer p{
+    font-size: 11px;
+
+}
+.sec5-container{
+    display: flex;
+    background-size: 150px 200px;
+    margin-left:5px ;
+    height: 300px;
+    margin-bottom:150px ;
+    margin-left: 80px;
+     
+}
+
+.sec5-container img{
+    width: 350px;
+    height: 400px;
+    margin-left: 52px;
+    margin-right: 100px;
+    
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+}
+
+.sec5-container h3{
+    font-size:30px;
+    font-weight: bold;
+    margin: 0;
+    
+
+}
+.sec5-text {
+    margin-top: 70px;
+    
+    
+}
+.sec5-text p{
+    margin-bottom: 25px;
+    margin-right: 500px;
+    
+    
+}
+.last-color{
+    color: rgb(255, 89, 89);
+}
+
+
+
+
